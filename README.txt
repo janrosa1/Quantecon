@@ -1,0 +1,1 @@
+Here is repository for some simple exercies 
